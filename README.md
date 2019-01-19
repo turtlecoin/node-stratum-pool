@@ -1,3 +1,6 @@
+# Recommend Adding Support For Supplying Additional Parameters in Miner Jobs
+## See https://github.com/turtlecoin/node-turtle-pool/commit/5671ef9a9c71fda7243815ef1be84087d4da6443
+
 ## This repo is looking for maintainers! Please reach out if interested.
 
 --------
